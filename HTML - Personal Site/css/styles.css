@@ -1,0 +1,18 @@
+/* selector {property : value ; } */
+/* tag selector : body, hr, h3 etc. */
+/* class selector : .class1, .class2 etc. */
+/* id selector : #id1 , #id2 etc. */
+
+
+body {
+  background-color: #EEEEEE;
+}
+
+hr {
+  background-color: #00ADB5;
+  border-top: 3px solid #00ADB5;
+}
+
+h3 {
+  color: #393E46;
+}

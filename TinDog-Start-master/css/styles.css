@@ -1,0 +1,176 @@
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+/* Navigation Bar */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 300;
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Features */
+.features-row {
+  margin: 5% 15%;
+}
+
+.fea-paragraph {
+  color: #8f8f8f;
+  padding: 0 5%;
+}
+
+.features-h3 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.features-img {
+  font-size: 3rem;
+  color: #ef8172;
+}
+
+.features-img:hover {
+  color: #ff4c68;
+}
+
+#features {
+  text-align: center;
+  background-color: #fff;
+
+}
+
+/* Title */
+.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-img {
+    transform: rotate(0);
+
+  }
+}
+
+
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* Press and Carousel */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+
+
+/* Pricing */
+
+#pricing {
+  padding: 100px;
+  text-align: center
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+
+
+/* Call to Action */
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.ft-h3 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #fff;
+}
+
+#footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 5% 5%;
+}
+
+.foot-img {
+  padding: 20px 10px;
+}
