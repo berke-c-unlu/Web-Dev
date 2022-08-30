@@ -1,0 +1,42 @@
+/* Heading */
+
+.RefreshHeading {
+  font-size: 8rem;
+  color: #4ECCA3;
+  margin: 2% 2%;
+  padding: 0;
+}
+
+
+
+/* Body */
+body {
+  background-color: #393E46;
+  text-align: center;
+  margin: 8px;
+  font-family: "Lobster";
+}
+
+.container {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.playerName {
+  color: #4ECCA3;
+  font-family: "Indie Flower", cursive;
+  font-size: 2rem;
+}
+
+.Dice {
+  text-align: center;
+  display: inline-block;
+  padding: 8px;
+}
+
+footer {
+  color: #fff;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
